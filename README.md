@@ -2,9 +2,9 @@
 
 ## Project Director
 
-* working for a Chinese software company
+* Working for a Chinese software company
 * 13+ years of RD
-* focus on NLP, Database
+* Focus on NLP, Database
 
 ## MBA
 
@@ -25,4 +25,4 @@
 
 ## Volunteer
 
-* Participation in a public welfare project from 2018
+* Participation in a public welfare project since 2018
