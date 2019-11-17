@@ -3,7 +3,7 @@
 ## Developer
 
 * Working for a Chinese cloud computing service provider as Vice General Manager.
-* Lead RD of two database products (GBase 8s, GBase 8t) for 5 years.
+* Had led RD of two database products (GBase 8s, GBase 8t) for 5 years.
 * Responsible for cloud computing service operation and maintenance team for 2 years.
 * 13+ years of RD.
 * Focus on Cloud computing, Database.
